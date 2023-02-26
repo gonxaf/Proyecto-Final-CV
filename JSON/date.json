@@ -1,0 +1,29 @@
+[   {
+        "studies" : {
+            "current" : "Certificación de Relaciones Públicas (Feb. 2021 - Presente)" ,
+            "finalized" : "Licenciatura en Ciencias de la Comunicación (May. 2019)" 
+                    }
+    },
+    {
+        "skills" : {
+            "first" : "Técnicas de atención al cliente: Experto",
+            "second" : "Trabajo en equipo: Experto",
+            "third" : "Organización: Avanzad",
+            "fourth" : "Solución de problemas: Experto"
+        }
+    },
+    {
+        "languages" : {
+            "spanish" : "Español: Nativo",
+            "english" : "Francés: A2",
+            "french" : "Inglés: B2"
+        }
+    },
+    {
+        "experience" : {
+            "third" : "Gerente de Servicio al Cliente (Mapfre 2019 - Presente)",
+            "second" : "Representante de Servicio al Cliente (Pfizer 2017)",
+            "first" : "Representante de Servicio al Cliente (Zara Home 2016)"
+        }
+    }
+]
